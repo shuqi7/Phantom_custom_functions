@@ -1,2 +1,2 @@
 def test():
-  s = 1
+  s = "edit from git"
