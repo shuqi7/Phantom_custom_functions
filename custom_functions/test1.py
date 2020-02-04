@@ -1,2 +1,2 @@
-def test:
-  print("hello world1")
+def test():
+  s = 1
