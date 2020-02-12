@@ -1,2 +1,2 @@
 def test():
-  s = "edit123 from git"
+  s = "edit123456 from git"
